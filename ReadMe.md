@@ -1,4 +1,4 @@
-# U4S2 Understanding Conditional Execution
+# U5S2 Understanding Conditional Execution
 
 * Part A - Foundations 5.1
 * Part B - Foundations Practice
