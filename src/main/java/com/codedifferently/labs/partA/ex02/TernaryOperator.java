@@ -1,26 +1,19 @@
 package com.codedifferently.labs.partA.ex02;
 
-public class TernaryOperator {
-    public static String modify(){
-        String response = "";
+import java.util.Scanner;
 
-        int x = 4, y = 9;
-        if (y / x < 3) {
-            x += y;
-        } else {
-            x *= y;
-        }
-        response += ("After if stmt, x = " + x);
-
-        return response;
+//public class TernaryOperator {
+   // public static String modify() {
 
         // Use a ternary operator to perform the same logic as above.
-    }
+        //return response;
+    //}
 
 
 
-    public static void main(String[] args) {
-        String modifyOutput = modify();
-        System.out.print(modifyOutput);
-    }
-}
+
+   // public static void main(String[] args) {
+        //String modifyOutput = modify();
+        //System.out.print(modifyOutput);
+    //}
+//}
